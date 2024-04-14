@@ -22,7 +22,7 @@ var colorsArray = {
             "name":"blue",
             "red":"19",
             "green":"71",
-            "blue":"144",
+            "blue":"144"
         },
         {
             "name":"orange",
